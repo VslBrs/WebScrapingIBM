@@ -1,4 +1,4 @@
-# WebScrapingIBM
+# WebScrapingIBM: Part of IBM Data Analyst Professional Certificate
 Purpose of the Project is:
 
 Extracting Tesla Stock Data Using yfinance
