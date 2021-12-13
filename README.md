@@ -1,5 +1,5 @@
 # WebScrapingIBM
-Purpose of the Project is
+Purpose of the Project is:
 
 Extracting Tesla Stock Data Using yfinance
 
